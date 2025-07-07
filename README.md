@@ -1,9 +1,4 @@
-# Astro on Netlify Platform Starter
-
-[Live Demo](https://fafnet.online.netlify.app/)
-
-A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
-
+<a href="https://fafnet.online"
 <!DOCTYPE html>
 <html lang="en">
 <head>
